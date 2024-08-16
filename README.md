@@ -5,7 +5,7 @@ This repository includes a Jupyter Notebook that demonstrates the steps involved
 This analysis was designed to explore data mining, with a particular emphasis on understanding how decision trees are constructed and applied to predict whether bank clients are likely to leave based on their profiles. This exercise is a component of a broader curriculum intended to build proficiency in navigating ethical challenges in data analytics and to sharpen predictive analysis skills.
 
 # Repository Structure
-Jupyter Notebook: The main file Exercise_5.4_Intro_to_Data_Mining.ipynb includes comprehensive steps from data cleaning, exploratory data analysis, to modeling and predictions using a decision tree classifier.
+Jupyter Notebook: The main file [Exercise_5.4_Intro_to_Data_Mining.ipynb](https://github.com/iamsrajachauhan/Pig-E.-Bank-Data---Customer-Retention-Project/blob/main/5.4Data%20mining.ipynb) includes comprehensive steps from data cleaning, exploratory data analysis, to modeling and predictions using a decision tree classifier.
 
 # Key Objectives
 Understand and execute data cleaning and preprocessing.
